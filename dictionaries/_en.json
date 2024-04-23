@@ -1,0 +1,144 @@
+{
+  "language": "EN",
+
+  "ui": {
+    "locales": {
+      "kg": "Кыргызча",
+      "ru": "Русский",
+      "en": "English"
+    },
+
+    "navigation": {
+      "news": "News",
+      "aboutUs": "About us",
+      "developments": "Developments",
+      "partners": "Partners",
+      "contacts": "Contacts"
+    },
+
+    "contactUs": "Contact us",
+    "readMore": "Read more"
+  },
+
+  "home": {
+    "header": {
+      "title": "Reliability, quality and innovation in the world of electronics",
+      "description": "Development and implementation of quality solutions based on advanced scientific and technical developments."
+    },
+    "statistics": {
+      "title": "Development and implementation of quality solutions based on advanced scientific and technical developments",
+      "list": [{
+        "value": "6",
+        "title": "Departments",
+        "description": "Our skilled professionals guarantee the highest quality and innovative solutions."
+      }, {
+        "value": "256",
+        "title": "Employees",
+        "description": "More than 1000 skilled professionals guarantee the highest quality and innovative solutions."
+      }, {
+        "value": "120",
+        "title": "Developments",
+        "description": "Our investment in technology is\nis the key to leadership in high-tech manufacturing."
+      }, {
+        "value": "720",
+        "title": "Workplaces",
+        "description": "We contribute to the growth of the region\nthrough the employment and career development of local people."
+      }]
+    },
+    "news": {
+      "sectionTitle": "COMPANY NEWS",
+      "newsList": [{
+        "data": "23 Jan, 2024",
+        "title": "«Kyrgyzelectronics» is ready to transfer more than 30 thousand KKM machines to the State Tax Service of the Kyrgyz Republic",
+        "description": "Subsidiary of Kyrgyzindustry OJSC Kyrgyzelectronics LLP is ready to transfer 32 thousand."
+      },{
+        "data": "25 Dec, 2023",
+        "title": "Kyrgyzelectronics exported products worth more than 12 mln soms",
+        "description": "According to the results of 2023, the subsidiary of Kyrgyzindustry OJSC - Kyrgyzelectronics LLC exported products worth 12.5 million KGS. This was reported by the head of the enterprise Ilya Cherny."
+      },{
+        "data": "13 Apr, 2023",
+        "title": "Contract signed between Kyrgyzelectronics LLC and New H3C Technologies LLC",
+        "description": "A contract was signed between Kyrgyzelectronics LLP and New H3C Technologies LLC.\nOn April 13, 2023 in the office of Kyrgyzindustry JSC was held a meeting of the President of Kyrgyzindustry JSC J.O. "
+      },{
+        "data": "21 Dec, 2022",
+        "title": "Kyrgyzelectronics will start producing switches and servers",
+        "description": "Kyrgyzelectronics will produce and carry out large-scale assembly of switching and server equipment under its own brand, reported Kyrgyzindustriya OJSC (Kyrgyzelectronics is its subsidiary)."
+      }]
+    },
+    "aboutUs": {
+      "sectionTitle": "ABOUT COMPANY",
+      "title": {
+        "subTitle1": "We strive\n",
+        "subTitle2": "to be self-sufficient in high-tech equipment"
+      },
+      "description": "We specialize in research and development activities, bringing together highly qualified specialists to develop new technologies and products.",
+      "osoo": "KyrgyzEleсtronika LLC since April 26, 2022 - a participant of Kyrgyzindustry Open Joint Stock Company.",
+      "quote": {
+        "quote": "Wish we would support local production and buy only from Kyrgyz Electronics",
+        "author": "Akylbek Japarov",
+        "post": "Chairman of the Cabinet of Ministers of the Kyrgyz Republic"
+      }
+    },
+    "portfolio": {
+      "sectionTitle": "PROJECT PORTFOLIO",
+      "slider": [{
+        "title": "Development of internal production",
+        "description": "We raise the level and quality of high-tech equipment production within the country."
+      }, {
+        "title": "Scientific and technical activities",
+        "description": "Study of current problems and search for innovative approaches to their solution."
+      }, {
+        "title": "Construction activities",
+        "description": "Development and prototyping of innovative products, as well as their optimization and adaptation to specific customer needs."
+      }, {
+        "title": "Training",
+        "description": "We raise the level and quality of high-tech equipment production within the country."
+      }, {
+        "title": "International cooperation",
+        "description": "Exchange of experience and technologies, joint research and development."
+      }],
+      "tabList": {
+        "internalProduction": "Internal production",
+        "scientificActivity": "Scientific and technical activities",
+        "constructionActivities": "Construction activities",
+        "training": "Training",
+        "internationalCooperation": "International cooperation"
+      }
+    },
+    "exampleProject": {
+      "title": "Developing innovative products to improve lives and business processes"
+    },
+    "togetherSuccess": {
+      "sectionTitle": "TOGETHER TO SUCCESS",
+      "yourSuccessOurGoal": {
+        "subTitle1": "Your success\n",
+        "subTitle2": "our goal"
+      },
+      "continuousImprovement": "We are constantly improving\nfor our customers",
+      "providingComprehensiveAssistance": "We are ready to provide comprehensive assistance to help you achieve your business goals.",
+      "offeringTechnicalSolutions": {
+        "subTitle1": "We offer the best technical solutions to\n",
+        "subTitle2": "grow your business and outperform your competitors"
+      }
+    },
+    "partners": {
+      "sectionTitle": "PARTNERS",
+      "title": "By choosing us, you get a reliable partner, ready to turn your ideas into reality"
+    },
+    "contacts": {
+      "sectionTitle": "CONTACT US",
+      "title": {
+        "subTitle1": "Shall we discuss your project?\n",
+        "subTitle2": "Contact us"
+      },
+      "description": "Our experts are available to answer your questions\nand provide the support you need.",
+      "address": "Kyrgyz Republic, Bishkek, Chui Ave. 106, office 405"
+    }
+  },
+
+  "footer": {
+    "copyright": "© LLC KyrgyzEleсtronika. All rights reserved"
+  },
+
+  "notFound": "Page not found 404"
+}
