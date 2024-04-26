@@ -1,4 +1,4 @@
-import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./index-B3iTOXKm.js";const c=({gap:t=10,flexDirection:i="row",alignItems:n="normal",justifyContent:s="normal",children:d,...x})=>e.jsx(P,{$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s,...x,children:d}),P=o.div(({$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s})=>r`
+import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./index-Dn_--Lp1.js";const c=({gap:t=10,flexDirection:i="row",alignItems:n="normal",justifyContent:s="normal",children:d,...x})=>e.jsx(P,{$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s,...x,children:d}),P=o.div(({$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s})=>r`
     display: flex;
     gap: ${t}px;
     flex-direction: ${i};
@@ -385,8 +385,12 @@ import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./ind
   }
 `,X1=o(u)`
   border-radius: 0;
+  width: 215px;
   min-width: 140px;
   margin: -104px -4px -4px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 
   @media (max-width: 1800px) {
     margin-top: -65px;
@@ -425,9 +429,11 @@ import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./ind
   }
 `,t2=o(y)`
   max-width: 864px;
+  min-height: 100px;
   display: flex;
   align-items: center;
-  padding: 24px 0 0 0;
+  position: relative;
+  padding: 44px 30px 33px 190px;
 
   @media (max-width: 1480px) {
     padding: 20px 15px;
@@ -508,6 +514,7 @@ import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./ind
   flex: 1;
 `,p2=o(v)(({theme:t})=>r`
     color: ${t.palette.font.gray};
+    margin-bottom: 20px;
   `),x2=o(y)`
   max-width: 632px;
   display: flex;
@@ -887,7 +894,7 @@ import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./ind
     display: flex;
     align-items: center;
     gap: 24px;
-    padding: 12px 24px 24px;
+    padding: 12px 5px 24px;
 
     div {
       border-color: ${t.palette.gray.gray};
@@ -933,8 +940,6 @@ import{u as o,a as r,j as e,t as l,E as w,b as g,r as a,c as M,R as W}from"./ind
 
     @media (max-width: 1800px) {
       gap: 14px;
-      padding-left: 5px;
-      padding-right: 5px;
     }
   `),P8=o.div`
   border-radius: 50%;
