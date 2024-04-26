@@ -86,7 +86,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap" rel="stylesheet">
 
   <title>...</title>
-  <script type="module" crossorigin src="/previewer/assets/index-Bq6IhCyO.js"></script>
+
+  <script>
+    const storedLocale = localStorage.getItem("language")
+
+    if (!storedLocale) {
+      localStorage.setItem("language", "RU")
+    }
+  </script>
+  <script type="module" crossorigin src="/previewer/assets/index-BSOOEP0f.js"></script>
 </head>
 <body>
 <div id="root"></div>
