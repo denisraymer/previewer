@@ -1,4 +1,4 @@
-import{u as o,a as r,j as e,t as l,E as u,b as C,r as a,c as V,R as W}from"./index-CEZpjNzo.js";const c=({gap:t=10,flexDirection:i="row",alignItems:n="normal",justifyContent:s="normal",children:d,...p})=>e.jsx(P,{$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s,...p,children:d}),P=o.div(({$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s})=>r`
+import{u as o,a as r,j as e,t as l,E as u,b as C,r as a,c as V,R as W}from"./index-CBdp5DsZ.js";const c=({gap:t=10,flexDirection:i="row",alignItems:n="normal",justifyContent:s="normal",children:d,...p})=>e.jsx(P,{$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s,...p,children:d}),P=o.div(({$gap:t,$flexDirection:i,$alignItems:n,$justifyContent:s})=>r`
     display: flex;
     gap: ${t}px;
     flex-direction: ${i};
